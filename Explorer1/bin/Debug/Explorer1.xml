@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Explorer1
+</name>
+</assembly>
+<members>
+<member name="M:Explorer1.UserControl1.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:Explorer1.UserControl1">
+	<summary>
+UserControl1
+</summary>
+</member>
+</members>
+</doc>
